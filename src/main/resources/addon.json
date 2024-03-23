@@ -1,0 +1,23 @@
+{
+  "name": "PlayerPoints",
+  "author": "brainsynder",
+
+  "version": 0.1,
+  "supported-build": 163,
+
+  "description": [
+    "&7This addon links into the PlayerPoints plugin",
+    "&7To make it possible to buy pets with points"
+  ],
+
+  "plugin-support": [
+    {
+      "name": "PlayerPoints",
+      "url": "https://www.spigotmc.org/resources/80745/"
+    }
+  ],
+
+  "class-checks": [
+    "org.black_ixx.playerpoints.PlayerPoints"
+  ]
+}
